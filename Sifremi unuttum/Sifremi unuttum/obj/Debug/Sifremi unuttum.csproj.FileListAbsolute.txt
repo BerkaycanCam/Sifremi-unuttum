@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\bin\Debug\Sifremi unuttum.exe.config
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\bin\Debug\Sifremi unuttum.exe
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\bin\Debug\Sifremi unuttum.pdb
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\obj\Debug\Sifremi unuttum.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\obj\Debug\Sifremi_unuttum.Form1.resources
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\obj\Debug\Sifremi_unuttum.Properties.Resources.resources
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\obj\Debug\Sifremi_unuttum.Resetle.resources
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\obj\Debug\Sifremi_unuttum.SifreSıfırla.resources
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\obj\Debug\Sifremi unuttum.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\obj\Debug\Sifremi unuttum.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\obj\Debug\Sifremi unuttum.exe
+C:\Users\ACER\source\repos\Sifremi unuttum\Sifremi unuttum\obj\Debug\Sifremi unuttum.pdb
